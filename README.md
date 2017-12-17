@@ -1,0 +1,2 @@
+# furtka
+Układ otwierania furtki
